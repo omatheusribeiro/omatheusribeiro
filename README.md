@@ -10,7 +10,7 @@ I'm a Full Stack developer passionate about the best web and game development te
 <div align="center" >
 
 [![Matheus Ribeiro github stats](https://github-readme-stats.vercel.app/api?username=MatheusRibeiro100)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRibeiro100&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRibeiro100&layout=compact)](https://github.com/anuraghazra/github-readme-stats)(https://github.com/anuraghazra/github-readme-stats)
 <div style="align-self: center;align-items: center; display: flex; justify-content: space-between; width: 150px;" >
   <a href="https://www.youtube.com/channel/UCFalM59mW7O8ARBIfpBIvGQ">
     <img src="https://github.com/ARTHURPC03/ARTHURPC03/raw/master/github/youtube.png" alt="youtube" height="50">

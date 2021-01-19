@@ -1,5 +1,32 @@
 ### Hi there 👋
 
+I'm a Full Stack developer passionate about the best web and game development technologies. I have experience with projects using JavaScript, Typescript, .Net Core, Java, Angular and ReactJS. I am graduated in Systems Analysis and Development, and a future Web Solutions Architect.
+
+- 🔭 I’m currently working on Avivatec.
+- 🌱 I have experience with .Net Core, C#, Entity Framework, Java, Angular, ReactJS, Storybook, AWS, Redis, SQL Server, MySQL, and SQLite.
+- See my youtube channel: [Code Ninja](https://www.youtube.com/channel/UCFalM59mW7O8ARBIfpBIvGQ)
+- See my LinkedIn: [Matheus Ribeiro](https://www.linkedin.com/in/omatheusribeiro/)
+
+<div align="center" >
+
+[![Matheus Ribeiro github stats](https://github-readme-stats.vercel.app/api?username=arthurpc03&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRibeiro10003&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
+<div style="align-self: center;align-items: center; display: flex; justify-content: space-between; width: 150px;" >
+  <a href="https://www.youtube.com/channel/UCFalM59mW7O8ARBIfpBIvGQ">
+    <img src="https://github.com/ARTHURPC03/ARTHURPC03/raw/master/github/youtube.png" alt="youtube" height="50">
+  </a>
+  <a href="https://www.linkedin.com/in/omatheusribeiro/">
+    <img src="https://github.com/ARTHURPC03/ARTHURPC03/raw/master/github/linkedin.png" alt="linkedin" height="50">
+  </a>
+</div>
+</div>
+
+
+
+
+
+
+
 <!--
 **MatheusRibeiro100/MatheusRibeiro100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

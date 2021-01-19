@@ -11,14 +11,6 @@ I'm a Full Stack developer passionate about the best web and game development te
 
 [![Matheus Ribeiro github stats](https://github-readme-stats.vercel.app/api?username=MatheusRibeiro100&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRibeiro100&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
-<div style="align-self: center;align-items: center; display: flex; justify-content: space-between; width: 150px;" >
-  <a href="https://www.youtube.com/channel/UCFalM59mW7O8ARBIfpBIvGQ">
-    <img src="https://github.com/ARTHURPC03/ARTHURPC03/raw/master/github/youtube.png" alt="youtube" height="50">
-  </a>
-  <a href="https://www.linkedin.com/in/omatheusribeiro/">
-    <img src="https://github.com/ARTHURPC03/ARTHURPC03/raw/master/github/linkedin.png" alt="linkedin" height="50">
-  </a>
-</div>
 </div>
 
 

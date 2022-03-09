@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Full Stack developer passionate about the best web and game development technologies. I am graduated in Systems Analysis and Development, and a future Web Solutions Architect.
+I'm a Full Stack developer passionate about the best web and game development technologies. I have a degree in Systems Analysis and Development from UNINOVE University and a specialist in Digital Solutions Architecture from Impacta College.
 
  <div>
   <a href="https://github.com/omatheusribeiro">

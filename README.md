@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Full Stack developer passionate about the best development technologies. I have a degree in Systems Analysis and Development from UNINOVE and a specialist in Digital Solutions Architecture from Faculdade Impacta.
+I'm a Full Stack developer passionate about the best development technologies. I have a degree in Systems Analysis and Development from UNINOVE and a specialist in Digital Solutions Architecture from Impacta college.
 
  <div>
   <a href="https://github.com/omatheusribeiro">

@@ -1,8 +1,8 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/omatheusribeiro/16c06c57c0cd8257101dd17e3b4227bf/raw/fc0b357c41b8c83aed437d6a7d8d8d587548dfa4/githubcard.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/omatheusribeiro/143597d6f2f022a13356b1abdff3ee5d/raw/9b7fee9f851656399bbb61c58af561028dcb4fca/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Matheus Ribeiro</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omatheusribeiro&color=blue" alt="Profile views" /> </p>
 
-- 🔥 Senior Dev & passionate about contributing to technology.
+- 🔥 FullStack Dev & passionate about contributing to technology.
 
 - 🔭 I’m currently working at [Avivatec](https://www.avivatec.com.br)
 

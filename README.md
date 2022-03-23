@@ -1,48 +1,80 @@
-### Hi there 👋
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/omatheusribeiro/16c06c57c0cd8257101dd17e3b4227bf/raw/fc0b357c41b8c83aed437d6a7d8d8d587548dfa4/githubcard.svg"/>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Matheus Ribeiro</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omatheusribeiro&color=blue" alt="Profile views" /> </p>
 
-I'm a Full Stack developer passionate about the best development technologies. I have a degree in Systems Analysis and Development from UNINOVE and a specialist in Digital Solutions Architecture from Impacta college.
+- 🔥 Senior Dev & passionate about contributing to technology.
 
- <div>
-  <a href="https://github.com/omatheusribeiro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omatheusribeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omatheusribeiro&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Matheus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Matheus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Matheus-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Matheus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
- <img align="center" alt="Matheus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
-  <img align="center" alt="Matheus-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.youtube.com/channel/UCFalM59mW7O8ARBIfpBIvGQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/codeninja.js" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/omatheusribeiro" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:omatheusribeiro@outlook.com"><img src="https://img.shields.io/badge/-outlook-%23333?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/omatheusribeiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/omatheusribeiro/omatheusribeiro/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+- 🔭 I’m currently working at [Avivatec](https://www.avivatec.com.br)
 
+<!-- - 👨‍💻 All of my projects are available at [maykbrito.dev](https://maykbrito.dev) -->
 
+- ▶️ I regularly post videos on [youtube.com/codeninja](https://www.youtube.com/channel/UCFalM59mW7O8ARBIfpBIvGQ)
+
+- 💬 Ask me about **JavaScript, HTML, CSS, SQL, C#
+
+<!-- - ⚡ Fun fact **Oneye 😜** -->
+
+<br><br>
+
+## 🛠 &nbsp;Tech Stack
+
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=red)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![.Net](https://img.shields.io/badge/-.Net-05122A?style=flat&logo=.net)&nbsp;
+![C#](https://img.shields.io/badge/-csharp-05122A?style=flat&logo=csharp)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![SQLServer](https://img.shields.io/badge/-SQLServer-05122A?style=flat&logo=microsoft-sql-server)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio](https://img.shields.io/badge/-VisualStudio-05122A?style=flat&logo=visual-studio&logoColor=5e43e0)&nbsp;
+![Intellij](https://img.shields.io/badge/-Intellij-05122A?style=flat&logo=intellij-idea)&nbsp;
 
 
+<br><br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=omatheusribeiro&show_icons=true&theme=tokyonight" alt="omatheusribeiro's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omatheusribeiro&layout=compact&theme=tokyonight" alt="omatheusribeiro's most languages"/>
+</p>
+
+<br><br>
+
+## 👨🏽‍🦲 &nbsp;Social Links
+
+<p align="left" style="background:yellow">
+<a href="https://twitch.tv/omatheusribeiro" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-omatheusribeiro-05122A?style=flat&logo=twitch" alt="twitch"/>  
+</a>
+<a href="https://linkedin.com/in/omatheusribeiro" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Matheus Ribeiro-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/codeninja.js" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Code Ninja-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+<a href="https://www.youtube.com/channel/UCFalM59mW7O8ARBIfpBIvGQ" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Code Ninja-05122A?style=flat&logo=youtube" alt="youtube"/>
+</a>
+ <a href="https://discord.gg/g6JukVZztX" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Discord Code Ninja-05122A?style=flat&logo=discord" alt="discord"/>
+</a>
+ </a>
+ <a href="omatheusribeiro@outlook.com" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Email-05122A?style=flat&logo=microsoft" alt="email"/>
+</a>
+</p>
 
 
 <!--
-**MatheusRibeiro100/MatheusRibeiro100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

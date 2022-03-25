@@ -62,7 +62,7 @@
  <img align="center" src="https://img.shields.io/badge/-Discord Code Ninja-05122A?style=flat&logo=discord" alt="discord"/>
 </a>
  </a>
- <a href="omatheusribeiro@outlook.com" target="_blank">
+ <a href="mailto:omatheusribeiro@outlook.com" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Email-05122A?style=flat&logo=microsoft" alt="email"/>
 </a>
 </p>

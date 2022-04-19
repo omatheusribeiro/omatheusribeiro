@@ -23,6 +23,7 @@
 ![.Net](https://img.shields.io/badge/-.Net-05122A?style=flat&logo=.net)&nbsp;
 ![C#](https://img.shields.io/badge/-csharp-05122A?style=flat&logo=csharp)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![SQLServer](https://img.shields.io/badge/-SQLServer-05122A?style=flat&logo=microsoft-sql-server)&nbsp;

@@ -51,11 +51,11 @@
   <img align="center" src="https://img.shields.io/badge/-omatheusribeiro-05122A?style=flat&logo=twitch" alt="twitch"/>  
 </a> -->
   
-<!-- <a href="https://linkedin.com/in/omatheusribeiro" target="_blank">
+<a href="https://linkedin.com/in/omatheusribeiro" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Matheus Ribeiro-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
   
-<a href="https://instagram.com/codeninja.js" target="_blank">
+<!-- <a href="https://instagram.com/codeninja.js" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Code Ninja-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
   

@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working at [Avivatec](https://www.avivatec.com.br)
 
-- ▶️ I regularly post videos on [youtube.com/codeninja](https://www.youtube.com/channel/UCFalM59mW7O8ARBIfpBIvGQ)
+<!-- - ▶️ I regularly post videos on [youtube.com/codeninja](https://www.youtube.com/channel/UCFalM59mW7O8ARBIfpBIvGQ) -->
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, C#
 
@@ -46,21 +46,27 @@
 ## 👨🏽‍🦲 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
-<a href="https://twitch.tv/omatheusribeiro" target="_blank">
+  
+<!-- <a href="https://twitch.tv/omatheusribeiro" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-omatheusribeiro-05122A?style=flat&logo=twitch" alt="twitch"/>  
-</a>
-<a href="https://linkedin.com/in/omatheusribeiro" target="_blank">
+</a> -->
+  
+<!-- <a href="https://linkedin.com/in/omatheusribeiro" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Matheus Ribeiro-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
+  
 <a href="https://instagram.com/codeninja.js" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Code Ninja-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
+  
 <a href="https://www.youtube.com/channel/UCFalM59mW7O8ARBIfpBIvGQ" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Code Ninja-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
+  
  <a href="https://discord.gg/g6JukVZztX" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Discord Code Ninja-05122A?style=flat&logo=discord" alt="discord"/>
-</a>
+</a> -->
+  
  </a>
  <a href="mailto:omatheusribeiro@outlook.com" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Email-05122A?style=flat&logo=microsoft" alt="email"/>

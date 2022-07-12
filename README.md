@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/omatheusribeiro/143597d6f2f022a13356b1abdff3ee5d/raw/9b7fee9f851656399bbb61c58af561028dcb4fca/githubcard.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/omatheusribeiro/143597d6f2f022a13356b1abdff3ee5d/raw/3b8e0e58199f57f7d658e5af1911d9324239df0e/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Matheus Ribeiro</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omatheusribeiro&color=blue" alt="Profile views" /> </p>
 
@@ -42,8 +42,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=omatheusribeiro&show_icons=true&theme=tokyonight" alt="omatheusribeiro's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omatheusribeiro&layout=compact&theme=tokyonight" alt="omatheusribeiro's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=omatheusribeiro&show_icons=true&theme=kacho_ga" alt="omatheusribeiro's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omatheusribeiro&layout=compact&theme=kacho_ga" alt="omatheusribeiro's most languages"/>
 </p>
 
 <br>
@@ -58,6 +58,10 @@
   
 <a href="https://linkedin.com/in/omatheusribeiro" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Matheus Ribeiro-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+
+<a href="https://twitter.com/oribeiro_m" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter" alt="twitter"/>
 </a>
   
 <!-- <a href="https://instagram.com/codeninja.js" target="_blank">

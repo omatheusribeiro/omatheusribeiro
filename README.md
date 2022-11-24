@@ -31,9 +31,9 @@
 ![SQLServer](https://img.shields.io/badge/-SQLServer-05122A?style=flat&logo=microsoft-sql-server)&nbsp;
   
 ### Studying in this moment:
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq)&nbsp;
 ![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  

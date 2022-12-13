@@ -1,23 +1,47 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=43ab52&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=43ab52&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Matheus+Ribeiro;I'm+24+years+old;I'm+from+Brazil;I+Graduated+Systems+Analysis+and+Development;and+I+have+an+MBA+in+Digital+Solutions+Architecture;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/omatheusribeiro/143597d6f2f022a13356b1abdff3ee5d/raw/03b1880768bcb323d844abb0026e5cda71ffd0fb/githubcard.svg"/>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Matheus Ribeiro</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omatheusribeiro&color=blue" alt="Profile views" /> </p>
+
+- 🔥 Senior Developer and content creator in his spare time 😃
+
+ - 🔭 I’m currently working at [Botão Start](https://github.com/botaostart) 
+
+ - ▶️ I regularly post videos and photos on [instagram.com/oribeiromatheuss](https://instagram.com/oribeiromatheuss) 
+
+- 💬 Ask me about **.Net Core, Angular, Typescript, SQL**
+
+- ⚡ **Game** and **series** lover 😜
+
+- 👨‍💻 More at [omatheusribeiro.dev](https://omatheusribeiro.dev)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=omatheusribeiro&show_icons=true&count_private=true&hide_border=true&title_color=43ab52&icon_color=43ab52&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Ribeiro github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omatheusribeiro&layout=compact&hide_border=true&title_color=43ab52&text_color=43ab52&bg_color=0d1117" />
+  <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api?username=omatheusribeiro&show_icons=true&count_private=true&theme=github_dark" alt="Matheus Ribeiro github stats" /> 
+  <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omatheusribeiro&layout=compact&hide_border=true&theme=github_dark" />
 </div>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=omatheusribeiro&bg_color=0d1117&color=43ab52&line=299138&point=5ae66e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=omatheusribeiro&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omatheusribeiro&theme=matrix&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+##
+
+### Contact
+
+<p align="left" style="background:yellow">
+<div style="display: flex; justify-content: center;">
+  <a href="https://twitter.com/oribeiromatheus" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-oribeiromatheus-05122A?style=flat&logo=twitter" alt="twitter"/>  
+  </a>
+  <a href="https://instagram.com/oribeiromatheuss" target="_blank">
+   <img align="center" src="https://img.shields.io/badge/-oribeiromatheuss-05122A?style=flat&logo=instagram" alt="instagram"/>
+  </a>
+  <a href="https://linkedin.com/in/omatheusribeiro" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-omatheusribeiro-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  </a>
+  <a href="mailto:omatheusribeiro@outlook.com" target="_blank">
+   <img align="center" src="https://img.shields.io/badge/-omatheusribeiro-05122A?style=flat&logo=microsoft" alt="microsoft"/>
+  </a>
+</div>
 </p>
-
-<div align="center"> 
-<a href="https://instagram.com/oribeiro_m" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "mailto:omatheusribeiro@outlook.com"> <img src="https://img.shields.io/badge/-email-%23333?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/omatheusribeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
   
    ### Main skills:
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -35,12 +59,3 @@
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
 ![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity)&nbsp;
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{omatheusribeiro}/count.svg" /></p> 
-<br>
-</div>
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=43ab52&height=120&section=footer"/>

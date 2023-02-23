@@ -34,7 +34,7 @@
   <a href="https://instagram.com/oribeiromatheuss" target="_blank">
    <img align="center" src="https://img.shields.io/badge/-oribeiromatheuss-05122A?style=flat&logo=instagram" alt="instagram"/>
   </a>
-  <a href="https://linkedin.com/in/omatheusribeiro" target="_blank">
+  <a href="https://instagram.com/omatheusribeirooo" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-omatheusribeiro-05122A?style=flat&logo=linkedin" alt="linkedin"/>
   </a>
   <a href="mailto:omatheusribeiro@outlook.com" target="_blank">

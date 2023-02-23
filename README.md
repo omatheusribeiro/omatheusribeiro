@@ -7,7 +7,7 @@
 
  - 🔭 I’m currently working at [Avivatec](https://www.avivatec.com.br) 
 
- - ▶️ I regularly post videos and photos on [instagram.com/omatheusribeirooo](https://instagram.com/omatheusribeirooo) 
+ - ▶️ I regularly post videos and photos on [omatheusribeirooo](https://instagram.com/omatheusribeirooo) 
 
 - 💬 Ask me about **.Net Core, Angular, ReactJs, NodeJs, Typescript, SQL**
 

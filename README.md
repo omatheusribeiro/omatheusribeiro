@@ -1,25 +1,25 @@
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/omatheusribeiro/143597d6f2f022a13356b1abdff3ee5d/raw/03b1880768bcb323d844abb0026e5cda71ffd0fb/githubcard.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/omatheusribeiro/a8d83e85ff48103b8d37e1619252de4d/raw/a2eb2e13647bf97cec66c0a7faed0fc622ca7f36/card.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Matheus Ribeiro</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omatheusribeiro&color=blue" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omatheusribeiro&color=orange" alt="Profile views" /> </p>
 
 - 🔥 Senior Developer and content creator in his spare time 😃
 
- - 🔭 I’m currently working at [Botão Start](https://github.com/botaostart) 
+ - 🔭 I’m currently working at [Avivatec](https://www.avivatec.com.br) 
 
- - ▶️ I regularly post videos and photos on [instagram.com/oribeiromatheuss](https://instagram.com/oribeiromatheuss) 
+ - ▶️ I regularly post videos and photos on [instagram.com/omatheusribeirooo](https://instagram.com/omatheusribeirooo) 
 
-- 💬 Ask me about **.Net Core, Angular, Typescript, SQL**
+- 💬 Ask me about **.Net Core, Angular, ReactJs, NodeJs, Typescript, SQL**
 
 - ⚡ **Game** and **series** lover 😜
 
 - ✨ More at [omatheusribeiro.dev](https://omatheusribeiro.dev)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=omatheusribeiro&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=omatheusribeiro&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=omatheusribeiro&show_icons=true&count_private=true&theme=github_dark" alt="Matheus Ribeiro github stats" /> 
-  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omatheusribeiro&layout=compact&theme=github_dark" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=omatheusribeiro&show_icons=true&count_private=true&theme=codeSTACKr" alt="Matheus Ribeiro github stats" /> 
+  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omatheusribeiro&layout=compact&theme=codeSTACKr" />
 </div>
 
 ##
@@ -49,6 +49,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=red)&nbsp;
+![ReactJs](https://img.shields.io/badge/-ReactJs-05122A?style=flat&logo=React)&nbsp;
+![NodeJs](https://img.shields.io/badge/-NodeJs-05122A?style=flat&logo=Node.Js)&nbsp;
 ![.Net](https://img.shields.io/badge/-.Net-05122A?style=flat&logo=.net)&nbsp;
 ![C#](https://img.shields.io/badge/-csharp-05122A?style=flat&logo=csharp)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;

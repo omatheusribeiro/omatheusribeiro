@@ -1,13 +1,11 @@
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/omatheusribeiro/a8d83e85ff48103b8d37e1619252de4d/raw/a2eb2e13647bf97cec66c0a7faed0fc622ca7f36/card.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/omatheusribeiro/143597d6f2f022a13356b1abdff3ee5d/raw/c4b76f805587b3e04afb277b8b85675fb21bff64/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Matheus Ribeiro</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omatheusribeiro&color=orange" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omatheusribeiro&color=blue" alt="Profile views" /> </p>
 
 - 🔥 Senior Developer and content creator in his spare time 😃
 
  - 🔭 I’m currently working at [Avivatec](https://www.avivatec.com.br) 
-
- - ▶️ I regularly post videos and photos on [omatheusribeirooo](https://instagram.com/omatheusribeirooo) 
 
 - 💬 Ask me about **.Net Core, Angular, ReactJs, NodeJs, Typescript, SQL**
 
@@ -15,11 +13,11 @@
 
 - ✨ More at [omatheusribeiro.dev](https://omatheusribeiro.dev)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=omatheusribeiro&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=omatheusribeiro&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=omatheusribeiro&show_icons=true&count_private=true&theme=codeSTACKr" alt="Matheus Ribeiro github stats" /> 
-  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omatheusribeiro&layout=compact&theme=codeSTACKr" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=omatheusribeiro&show_icons=true&count_private=true&theme=midnight-purple" alt="Matheus Ribeiro github stats" /> 
+  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omatheusribeiro&layout=compact&theme=midnight-purple" />
 </div>
 
 ##

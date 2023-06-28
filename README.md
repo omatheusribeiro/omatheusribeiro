@@ -13,7 +13,7 @@
 
 - ✨ More at [omatheusribeiro.dev](https://omatheusribeiro.dev)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=omatheusribeiro&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=omatheusribeiro&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=omatheusribeiro&show_icons=true&count_private=true&theme=midnight-purple" alt="Matheus Ribeiro github stats" /> 

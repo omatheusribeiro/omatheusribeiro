@@ -7,9 +7,23 @@
 
  - 🔭 I’m currently working at [Avivatec](https://www.avivatec.com.br) 
 
-- 💬 Ask me about **.Net Core, Angular, ReactJs, NodeJs, Typescript, SQL**
+- 🕗 7 years working in programming
 
-- ⚡ **Game** and **series** lover 😜
+- 📅 Undertaking the #100DaysOfCode challenge
+   
+- 🔓 Practitioner of the open source community
+
+- 🤖 Artificial intelligence enthusiast
+
+- 💬 Ask me about **Technology, Games and Series**
+
+- ⚡ Lover of **Games** and **Series** 😜
+     
+- 📚 Sharing experiences and acquiring new knowledge
+
+- 🏃 Running after my goal and encouraging people
+  
+- 📝 My aim is to provide projects to help people
 
 - ✨ More at [omatheusribeiro.dev](https://omatheusribeiro.dev)
 
@@ -26,13 +40,13 @@
 
 <p align="left" style="background:yellow">
 <div style="display: flex; justify-content: center;">
-  <a href="https://twitter.com/oribeiromatheus" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-oribeiromatheus-05122A?style=flat&logo=twitter" alt="twitter"/>  
+  <a href="https://twitter.com/omatheusribei" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-omatheusribei-05122A?style=flat&logo=twitter" alt="twitter"/>  
   </a>
-  <a href="https://instagram.com/oribeiromatheuss" target="_blank">
-   <img align="center" src="https://img.shields.io/badge/-oribeiromatheuss-05122A?style=flat&logo=instagram" alt="instagram"/>
+  <a href="https://instagram.com/omatheussribeiro" target="_blank">
+   <img align="center" src="https://img.shields.io/badge/-omatheussribeiro-05122A?style=flat&logo=instagram" alt="instagram"/>
   </a>
-  <a href="https://instagram.com/omatheusribeirooo" target="_blank">
+  <a href="https://www.linkedin.com/in/omatheusribeiro/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-omatheusribeiro-05122A?style=flat&logo=linkedin" alt="linkedin"/>
   </a>
   <a href="mailto:omatheusribeiro@outlook.com" target="_blank">

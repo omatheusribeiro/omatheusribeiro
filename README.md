@@ -40,12 +40,6 @@
 
 <p align="left" style="background:yellow">
 <div style="display: flex; justify-content: center;">
-  <a href="https://twitter.com/omatheusribei" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-omatheusribei-05122A?style=flat&logo=twitter" alt="twitter"/>  
-  </a>
-  <a href="https://instagram.com/omatheussribeiro" target="_blank">
-   <img align="center" src="https://img.shields.io/badge/-omatheussribeiro-05122A?style=flat&logo=instagram" alt="instagram"/>
-  </a>
   <a href="https://www.linkedin.com/in/omatheusribeiro/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-omatheusribeiro-05122A?style=flat&logo=linkedin" alt="linkedin"/>
   </a>

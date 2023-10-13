@@ -25,7 +25,7 @@
   
 - 📝 My aim is to provide projects to help people
 
-- ✨ More at [omatheusribeiro.dev](https://omatheusribeiro.com)
+- ✨ More at [omatheusribeiro.com](https://omatheusribeiro.com)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=omatheusribeiro&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 

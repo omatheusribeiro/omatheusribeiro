@@ -60,7 +60,6 @@
 ![SQLServer](https://img.shields.io/badge/-SQLServer-05122A?style=flat&logo=microsoft-sql-server)&nbsp;
   
 ### Studying in this moment:
-![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=Go)&nbsp;
 ![ReactJs](https://img.shields.io/badge/-ReactJs-05122A?style=flat&logo=React)&nbsp;
 ![NodeJs](https://img.shields.io/badge/-NodeJs-05122A?style=flat&logo=Node.Js)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;

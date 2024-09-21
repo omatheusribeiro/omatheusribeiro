@@ -1,37 +1,24 @@
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/omatheusribeiro/143597d6f2f022a13356b1abdff3ee5d/raw/c4b76f805587b3e04afb277b8b85675fb21bff64/githubcard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Matheus Ribeiro</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omatheusribeiro&color=blue" alt="Profile views" /> </p>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Matheus Ribeiro</h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=omatheusribeiro&color=lightgrey" alt="Profile views" /> </p>
 
-- 🔥 Senior Developer and content creator in his spare time 😃
+<div>
 
- - 🔭 I’m currently working at [Avivatec](https://www.avivatec.com.br) 
-
+- 🔥 Senior Developer
 - 🕗 7 years working in programming
-
-- 📅 Undertaking the #100DaysOfCode challenge
-   
 - 🔓 Practitioner of the open source community
+- 📅 Undertaking the #1YearOfCode challenge
+<!-- ✨ More at [omatheusribeiro.com](https://omatheusribeiro.com) -->
 
-- 🤖 Artificial intelligence enthusiast
+</div>
 
-- 💬 Ask me about **Technology, Games and Series**
+##
 
-- ⚡ Lover of **Games** and **Series** 😜
-     
-- 📚 Sharing experiences and acquiring new knowledge
-
-- 🏃 Running after my goal and encouraging people
-  
-- 📝 My aim is to provide projects to help people
-
-- ✨ More at [omatheusribeiro.com](https://omatheusribeiro.com)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=omatheusribeiro&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=omatheusribeiro&show_icons=true&count_private=true&theme=midnight-purple" alt="Matheus Ribeiro github stats" /> 
-  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omatheusribeiro&layout=compact&theme=midnight-purple" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omatheusribeiro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=false&order=1" height="120" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omatheusribeiro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=150&theme=swift&hide_border=false&order=2" height="120" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=omatheusribeiro&locale=en&mode=weekly&theme=swift&hide_border=false&border_radius=5&date_format=n/j%5B/Y%5D&order=3" height="120" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omatheusribeiro&radius=16&theme=github-light&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
 ##
@@ -44,10 +31,12 @@
     <img align="center" src="https://img.shields.io/badge/-omatheusribeiro-05122A?style=flat&logo=linkedin" alt="linkedin"/>
   </a>
   <a href="mailto:omatheusribeiro@outlook.com" target="_blank">
-   <img align="center" src="https://img.shields.io/badge/-omatheusribeiro-05122A?style=flat&logo=microsoft" alt="microsoft"/>
+   <img align="center" src="https://img.shields.io/badge/-omatheusribeiro@outlook.com-05122A?style=flat&logo=hotmail" alt="microsoft"/>
   </a>
 </div>
 </p>
+
+##
   
 ### Main skills:
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -56,8 +45,10 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=red)&nbsp;
 ![.Net](https://img.shields.io/badge/-.Net-05122A?style=flat&logo=.net)&nbsp;
-![C#](https://img.shields.io/badge/-csharp-05122A?style=flat&logo=csharp)&nbsp;
-![SQLServer](https://img.shields.io/badge/-SQLServer-05122A?style=flat&logo=microsoft-sql-server)&nbsp;
+![Csharp](https://img.shields.io/badge/-csharp-05122A?style=flat&logo=c-sharp)&nbsp;
+![SQLServer](https://img.shields.io/badge/-SQLServer-05122A?style=flat&logo=sql)&nbsp;
+
+##
   
 ### Studying in this moment:
 ![ReactJs](https://img.shields.io/badge/-ReactJs-05122A?style=flat&logo=React)&nbsp;

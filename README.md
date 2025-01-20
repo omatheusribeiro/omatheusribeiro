@@ -27,10 +27,10 @@
 <p align="left" style="background:yellow">
 <div style="display: flex; justify-content: center;">
   <a href="https://www.linkedin.com/in/omatheusribeiro/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-omatheusribeiro-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+    <img align="center" src="https://img.shields.io/badge/-omatheusribeiro-05122A?style=flat&logo=googlechrome" alt="linkedin"/>
   </a>
   <a href="mailto:omatheusribeiro@outlook.com" target="_blank">
-   <img align="center" src="https://img.shields.io/badge/-omatheusribeiro@outlook.com-05122A?style=flat&logo=hotmail" alt="microsoft"/>
+   <img align="center" src="https://img.shields.io/badge/-omatheusribeiro@outlook.com-05122A?style=flat&logo=maildotru" alt="microsoft"/>
   </a>
 </div>
 </p>
@@ -45,7 +45,7 @@
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=red)&nbsp;
 ![.Net](https://img.shields.io/badge/-.Net-05122A?style=flat&logo=.net)&nbsp;
 ![Csharp](https://img.shields.io/badge/-csharp-05122A?style=flat&logo=c-sharp)&nbsp;
-![SQLServer](https://img.shields.io/badge/-SQLServer-05122A?style=flat&logo=sql)&nbsp;
+![SQLServer](https://img.shields.io/badge/-SQLServer-05122A?style=flat&logo=amazondocumentdb)&nbsp;
 
 ##
   

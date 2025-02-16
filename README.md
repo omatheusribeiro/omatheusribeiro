@@ -5,7 +5,7 @@
 <div>
 
 - 🔥 Senior Developer
-- 🕗 7 years working in programming
+- 🕗 8 years working in programming
 - 🔓 Practitioner of the open source community
 - 📅 Undertaking the #1YearOfCode challenge
 <!-- ✨ More at [omatheusribeiro.com](https://omatheusribeiro.com) -->
